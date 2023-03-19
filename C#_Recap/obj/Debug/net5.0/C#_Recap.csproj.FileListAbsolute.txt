@@ -1,0 +1,16 @@
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.exe
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.deps.json
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.runtimeconfig.json
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.dll
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\bin\Debug\net5.0\C#_Recap.pdb
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.AssemblyInfo.cs
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.dll
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\refint\C#_Recap.dll
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.pdb
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\C#_Recap.genruntimeconfig.cache
+C:\Users\Ali\source\repos\C#_Recap\C#_Recap\obj\Debug\net5.0\ref\C#_Recap.dll
